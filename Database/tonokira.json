@@ -1,7 +1,7 @@
 {
    "songs":[
       {
-         "artiste":"Manandratra",
+         "artiste":"Groupe Manandratra",
          "auteur":"RANDRIANARIVOLA Maminiafiana dit Nonot",
          "compositeur":"Tahiana et Fitahiana",
          "id":"GM_1",
@@ -1650,7 +1650,7 @@
          "artiste":"Ny Salamo",
          "auteur":"Ny Salamo",
          "compositeur":"Ny Salamo",
-         "id":"NS_1",
+         "id":"NYS_1",
          "paroles":[
             {
                "couplet":1,
@@ -1702,7 +1702,7 @@
          "artiste":"Nature's Group",
          "auteur":"NATURE'S Group",
          "compositeur":"NATURE'S Group",
-         "id":"NT_1",
+         "id":"NTG_1",
          "paroles":[
             {
                "couplet":1,
@@ -5754,7 +5754,7 @@
          "artiste":"Feon'ny filazantsara mandrakizay",
          "auteur":"",
          "compositeur":"",
-         "id":"FFM_1",
+         "id":"FFM_2",
          "paroles":[
             {
                "couplet":1,
@@ -7216,7 +7216,7 @@
          "artiste":"Groupe François",
          "auteur":"Groupe François",
          "compositeur":"Groupe François",
-         "id":"FR_1",
+         "id":"FRA_1",
          "paroles":[
             {
                "couplet":1,
