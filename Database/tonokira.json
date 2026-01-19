@@ -1,10 +1,9 @@
 {
    "songs":[
       {
-         "artiste":"Manandratra",
+         "artiste":"Groupe Manandratra",
          "auteur":"RANDRIANARIVOLA Maminiafiana dit Nonot",
          "compositeur":"Tahiana et Fitahiana",
-         "images": "https://raw.githubusercontent.com/Nyhafatro-orima/Tononkira/main/Images/HK.jpg",
          "id":"GM_1",
          "link":"https://www.dl.dropboxusercontent.com/scl/fi/652oe6vlqb64ewk78yv3k/diovy_hisopa_pb.mp3?rlkey=2brmvuntz9ncmz4h16hjmk2xt&st=jhcn0xu8",
          "paroles":[
@@ -42,14 +41,13 @@
       },
       {
          "artiste":"Raoeliarijao",
-         "link":"https://www.dl.dropboxusercontent.com/scl/fi/652oe6vlqb64ewk78yv3k/diovy_hisopa_pb.mp3?rlkey=2brmvuntz9ncmz4h16hjmk2xt&st=jhc",
          "auteur":"Raoeliarijao",
          "compositeur":"",
          "id":"RAO_1",
          "paroles":[
             {
                "lyrics":"Mivavaka aho ho an'ireo tsy mino \nFa mbola ho avy ilay marainany ;\n\nMivavaka aho ho an'ireo tsy mino\n Fa mbola hihiratra ny fiainany ;\n\nMivavaka aho ho an'ireo tsy mino\n Fa mbola hiova ny tantarany ;\n\nMivavaka aho ho an'ireo tsy mino \nFa mbola hisandratra ny anarany .\n\nFa koa ,\n\nMivavaka aho ho an'ireo efa mino \nMba tsy ho very ny finoany ;\n\nMivavaka aho ho an'ireo efa mino \nMba ny finoany ho lasa ambony ;\n\nMivavaka aho ho an'ireo efa mino \nMba hitozo hatramin'ny farany ;\n\nMivavaka aho ho an'ireo efa mino\nFa kely sisa dia ho anjarany .",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Mivavaka aho",
@@ -283,7 +281,7 @@
          "paroles":[
             {
                "lyrics":"Raha mino sy matoky ianao\nTsy hangatak’andro fa izao,\nDia ho hitanao ny halehibiazany\nHo hitanao ny fahombiazany,\nNy olanao dia hohitsahiny\nDia ho hitanao ny voninahiny.\n\nRaha mino sy matoky ianao\nTsy hangatak’andro fa izao,\nTsy misy sakana tsy ho afany\nNy lalanao dia hosokafany,\nNy fatotrao dia hotapahiny\nDia ho hitanao ny voninahiny.\n\nRaha mino sy matoky ianao\nTsy hangatak’andro fa izao,\nNy entanao dia holanjainy\nNy adinao dia hovitainy,\nNy tahotrao dia horoahiny\nDia ho hitanao ny voninahiny.\n\nRaha mino sy matoky ianao \nTsy hangatak’andro fa izao,\nNy vesatrao dia hamaivaniny\nNy aretinao dia hositraniny,\nNy herinao dia hatanjahiny\nDia ho hitanao ny voninahiny.\n\nRaha mino sy matoky ianao\nTsy hangatak’andro fa izao,\nNy otanao dia hofotsiany\nNy hamonjy anao dia tena tiany,\nHomeny anao ny Fanahiny\nDia ho hitanao ny voninahiny.",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Dia ho hitanao ny voninahiny",
@@ -297,7 +295,7 @@
          "paroles":[
             {
                "lyrics":"Ry Ray ao ambony\nOnòny ,\nRaha sendra ka ory\nNy fony ;\nSao resin-tomany\nIlay any ,\nVelomy e\nNy fanantenany .\n\nNy adiny tsy mora\nIsan'ora ,\nTohano fa\nMbola tanora ;\nDia omeo fahendrena\nSehena ,\nHahaizany\nMitondra tena .\n\nRaha mby fisedrana\nMafana ,\nNy fiainany e\nAza ialana ;\nDia tohino\nNy fony mba hino ,\nFa ianao Ray\nTsy manadino .\n\nMahereza , matokia .",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Vavaka",
@@ -311,7 +309,7 @@
          "paroles":[
             {
                "lyrics":"Mazoto makany am-piangonana\nFa ny fo mbola be fialonana\nMenatra aho Jesosy malala\n\nIsan'andro mamaky baiboly\nFa ny saina mbola an'ny devoly\nMenatra aho Jesosy malala\n\nKristiana efa vita batisa\nFa mitana ny fanaon'ny jentilisa\nMenatra aho Jesosy malala\n\nMitory dia tena mandahatra\nFa ny fiainana angaha resy lahatra\nMenatra aho Jesosy malala\n\nMivavaka manao tsara tafy\nFa ny ambadika dia mampirafy\nMenatra aho Jesosy malala\n\nMidera mihira chorale\nFa mangalatra mamonjy bal\nMenatra aho Jesosy malala\n\nMaha te ho tia fa mpihira\nHay olona mpaniratsira\nMenatra aho Jesosy malala\n\nMalaza @ adidy rehetra\nFa saingy tsy mety miova ny toetra\nMenatra aho Jesosy malala\n\nJerena toa manan-komena\nFa ny betsaka fitiavan-tena\nMenatra aho Jesosy malala\n\nDeraina fa tena mpivavaka\nFa indrisy mpanavakavaka\nMenatra aho Jesosy malala\n\nAny ivelany maha te ho havana\nFa ao atrano tsy misy fitiavana\nMenatra aho Jesosy malala\n\nAndroany, ahoana rahalahy?\nRahapitso angaha fantatro ialahy?\nMenatra aho Jesosy malala\n\nNantsoina ho mpiandry ondry\nFa mbola mamely totondry\nMenatra aho Jesosy malala\n\nTsy miandany ambony pilopitra\nFa misoko manao politika\nMenatra aho Jesosy malala\n\nRehefa midera manandratra\nRehefa miaingo mitanjaka\nMenatra aho Jesosy malala\n\nRaha sitrapo dia mizihitra\nFa rakitra kosa mahihitra\nMenatra aho Jesosy malala\n\nFanompoana toa tsy misy tasy\nHay mbola manao ody gasy\nMenatra aho Jesosy malala\n\nMba mifady an'izao sy izatsy\nFa mifikitra @fanao ratsy\nMenatra aho Jesosy malala\n\nHe! kristiana ambony latabatra\nFa andrasan'ny tompo @sabatra\n\nMifona aho fa zanaka adala\nVonjeo aho fa vonon-kiala",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Menatra aho Jesosy malala",
@@ -325,7 +323,7 @@
          "paroles":[
             {
                "lyrics":"Raha sendra ka maloka ny andro\nManjombona tsy misy masoandro\nAza kivy fa mandalo izany\nFa ny fiainana tsy androany ihany\n\nRaha tsy tratra izay nokasaina\nMba niezaka fa nody maina\nAza kivy fa mandalo izany\nFa ny fiainana tsy androany ihany\n\nRaha tonga izay tsy fanànana\nTsy hita izay raisin'ny tànana\nAza kivy fa mandalo izany\nFa ny fiainana tsy androany ihany\n\nRaha niendaka izay nifikirana\nMiady irery ny tena sahirana\nAza kivy fa mandalo izany\nFa ny fiainana tsy androany ihany\n\nRaha sendra sakaiza manody\nMamitaka tsy mataho-tody\nAza kivy fa mandalo izany\nFa ny fiainana tsy androany ihany\n\nRaha misy ny manendrikendrika\nMitoraka sady manenjika\nAza kivy fa mandalo izany\nFa ny fiainana tsy androany ihany\n\nRaha nianika làlana avo\nVoadona ny tena ka lavo\nAza kivy fa mandalo izany\nFa ny fiainana tsy androany ihany\n\nN'inona n'inona onjan'ny fiainana\nMamely mandratra fisainana\nAza kivy fa mandalo izany\nFa ny fiainana tsy androany ihany",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Aza kivy",
@@ -451,7 +449,7 @@
             },
             {
                "lyrics":"Ô samia mahery, ary mijoroa\nTsy ho ela hiseo Jesô",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Samia mahery",
@@ -555,7 +553,7 @@
             },
             {
                "lyrics":"Avia avia\nHoy Jesô be fitia",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Avia hoy Jesosy",
@@ -633,7 +631,7 @@
             },
             {
                "lyrics":"Haleloia sy hosana ho anao Tomponay\nVoninahitra ho anao mandrakizay\nMatalanjona tokoa, izany herinao\nMiaiky sy midera anao izao tontolo izao",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Haleloia sy hosana",
@@ -931,7 +929,7 @@
             },
             {
                "lyrics":"Mbola miandry ao,\nMiandry ahy sy anao\nNy anjara satro-boninahitra\nNy andraso ialao\n‘Ndao hody anio izao\nMbola mivoha ny lanitra\n\nLanonana, korana tsy misy hadalàna\nHiram-pitia, hiram-piderana\nFa tonga soa ato an-tanàna\nIzaho sy ianao hody an-Kanàna.",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Mody",
@@ -987,7 +985,7 @@
             },
             {
                "lyrics":"Io ilay andro izay mitoetra sy haharitra\nHiara-hidera ny Mpahary hatrany an-danitra\nNy Sabata ilay tsangambatom-pamoronana\nMitondra fiainam-pahasambarana!",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Sabata",
@@ -1251,7 +1249,7 @@
             },
             {
                "lyrics":"Sao dia mba ise re no naditra?\nTsy izaho no naditra fa\nNy ady no tsy mety vita.",
-               "pont":1
+               "bridge":1
             },
             {
                "bridge":1,
@@ -1263,7 +1261,7 @@
             },
             {
                "lyrics":"Aiza izany no hiafarany?\nRaha izao no mitohy,\nDia ho rava ihany.",
-               "pont":2
+               "bridge":2
             },
             {
                "bridge":2,
@@ -1892,7 +1890,7 @@
             },
             {
                "lyrics":"Izay vavaka tena avy ao am-po reny avokoa\nKa valiany ianao isan’andro izao asiany soa\nRaha sendra manjo, tadidio f’izao atao\nTadiavo Jeso f’Izy mitady anao",
-               "outro":3
+               "bridge":3
             }
          ],
          "titre":"Tadiavo Jeso",
@@ -1922,7 +1920,7 @@
             },
             {
                "lyrics":"Mila ho reraka ny foko sy ny saiko\nKa ilaiko re ny vonjy avy Aminao",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Tompo ô, Ianao mahalala",
@@ -1952,7 +1950,7 @@
             },
             {
                "lyrics":"Tsy haiko ho lazaina ny fahasoavanao\nTsy takatry ny sainay ny fitiavanao\nJesosy ô (Jesosy ô)\nJesosy ô (Jesosy ô)\nJesosy ô, Resy lahatra aho\nJesosy ô (Jesosy ô)\nJesosy ô (Jesosy ô)\nJesosy ô, Resy lahatra aho\nRESY LAHATRA AHO...",
-               "outro":3
+               "bridge":3
             }
          ],
          "titre":"Ny fitondranao",
@@ -2008,7 +2006,7 @@
             },
             {
                "lyrics":"Jesosy no ‘Lay MAZAVA, hazavain’ny Teniny\nIzy anie hanazava ny fiainanao!",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Ny mazava",
@@ -2094,7 +2092,7 @@
             },
             {
                "lyrics":"O! Derao indray (anaty hira iray)\nIlay Mpanjaka lehibe\nVoninahitra (laza sy hery voninahitra)\nNo eo an-tanan’ny Tsitoha\nAnkalazao, hirao hirao\nIlay an-tseza fiandrianany!\nFeon’anjely ‘njao mihira “Hosana, Haleloia!’",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Derainay, ankalazainay",
@@ -2202,7 +2200,7 @@
             },
             {
                "lyrics":"Tahaka izay ihany koa, tsy ho ela intsony dia hody\nAo ilay lapa soa nampiandrasan’i Jeso Mpamonjy\nHifarana eo tsy hisy intsony ny jaly tety\nFeno fahatsarana ilay miandry ary\nMalakilakia ary ianao zandry tiako, etsy ho tantanako ianao\nMalakilakia ary ianao zandry tiako, etsy ho tantanako ianao.",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Etsy ho tantanako",
@@ -2426,7 +2424,7 @@
             },
             {
                "lyrics":"Omeo toky 'zao ny saiko re ry Raiko\nHo balsamako Ianao\nHanasitrana ahy tokoa ianao ry Ray\n(hanasitrana ahy Ianao)\nRy Ray o! Mahantra aho, menatra, mangahiahy aho\nRy Ray o! Fitiavana antsoiko Ianao",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Ray ô, Mamelà",
@@ -3026,7 +3024,7 @@
             },
             {
                "lyrics":"Jerosalema, Jerosalema\nNataon'ny Ray lova,\nHosana ho an'ny Avo indrindra,\nHo Azy Mandrakizay !\nMandrakizay!",
-               "pont":1
+               "bridge":1
             },
             {
                "lyrics":"Jerosalema, ilay fonenana,\nNomaniny ho antsika,\nHiara-hitoetra amin'ireo anjely,\nJerosalema vaovao, zovy no hiditra ao?\nAo an-tanànan'Andriamanitra,",
@@ -3090,7 +3088,7 @@
             },
             {
                "lyrics":"Nohamasininy ny sabata (ny sabata)\nNomeny azy ny sabata (ny sabata)\nFamantarana ao Aminy (famantarana ao Aminy)\nNy sabata (ny sabata)",
-               "outro":1
+               "bridge":1
             }
          ],
          "style":"Acapella",
@@ -3170,7 +3168,7 @@
             },
             {
                "lyrics":"Tsy misy mahalala, tsy misy mahafantatra na ny andro na ny ora,.\nTsy misy mahalala na dia ireo anjely na ny Lahitokana,",
-               "pont":1
+               "bridge":1
             },
             {
                "lyrics":"(Afats'i Baba e) Afats'i Baba araiky arô zalahy e, ye e\nAfats'i Baba araiky arô zalahy e,",
@@ -3182,7 +3180,7 @@
             },
             {
                "lyrics":"Tsy misy mahalala (....)",
-               "pont":2
+               "bridge":2
             },
             {
                "lyrics":"(Afats'i Baba e) Afats'i Baba araiky arô (....)",
@@ -3444,7 +3442,7 @@
             },
             {
                "lyrics":"Asandratro avo ho ren'izao tontolo izao\nTsy ho menatra aho hanambara fa Ianao\nIlay nandrandraiko mba ho andrin'ny foko\nTsy ho fefika aho raha Ianao no eo anilako\nAsandratro avo ho ren'izao tontolo izao\nTsy ho menatra aho ny hihira ho Anao\nTsy ho fefika ny fiainako raha Ianao\nNo hampitoetra ilay fanantenana ao anatiko ao",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Tsy ho fefika ny fiainako",
@@ -3496,7 +3494,7 @@
             },
             {
                "lyrics":"Fitiavana Ianao, ilay mahery Ianao\nHisaoranay Ianao, andriamanitro Ianao",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Ilay Andriamanitro",
@@ -3638,7 +3636,7 @@
             },
             {
                "lyrics":"Ny teninao zay nomenao ahy ry Tompo (nomenao ahy izao)\nDe tsapako fa sarobidy amiko",
-               "outro":1
+               "bridge":1
             },
             {
                "lyrics":"Satria teny soa mahafaly\nZay manova fo sy fanahy\nKa mitarika hanao ny marina\nHoraisiko am-pifaliana\nHianarako am-pitsikiana\nFa fiainana mandrakizay",
@@ -3855,7 +3853,7 @@
             },
             {
                "lyrics":"Mody amin’izay (tsy andatsa ny Ray)\nManolotra fiainana mandrakizay\nDia mody amin’izay (fa miandry ny Ray)\nManolotra fiainana mandrakizay\nManolotra fiainana mandrakizay (x4)",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Hiverina aho",
@@ -3919,7 +3917,7 @@
             },
             {
                "lyrics":"Raha tsy efa tafita\nAny an-tany Kanàna.",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Ho any an-tany Kanàna",
@@ -4056,11 +4054,11 @@
             },
             {
                "lyrics":"Lalalalalalalalala...\nLalalalalalalalala...\nLalalalalalalalala...\nLalalalalalalalala...",
-               "outro":1
+               "bridge":1
             },
             {
                "lyrics":"Izao tanin-tsika izao re\nDia nisy niandohany\nNefa asa mba fantatrao ve?\nFa efa akaiky ny hiafarany\nFa efa akaiky ny hiafarany\nFa efa akaiky ny hiafarany\nFa efa akaiky n'y hiafarany...",
-               "outro":2
+               "bridge":2
             }
          ],
          "titre":"Samy manana ny fotoanany",
@@ -4094,7 +4092,7 @@
             },
             {
                "lyrics":"Omeko anao\nNy fitiavako\nFoiko ho anao\nHatramin'ny aiko\nIzao rehetra izao\nFoiko ho anao\nHo anao ry zanako malalako",
-               "outro":3
+               "bridge":3
             }
          ],
          "titre":"Ho Anao",
@@ -4174,7 +4172,7 @@
             },
             {
                "lyrics":"Ka tsy ho kivy aho\nTsy ho kivy aho Jeso\nFa manana Anao ho heriko\nKa tsy ho kivy aho\nTsy ho kivy aho Jeso\nFa manana Anao ho heriko\nKa tsy ho kivy aho\nTsy ho kivy aho Jeso\nFa manana Anao ho heriko\nKa tsy ho kivy aho\nTsy ho kivy aho Jeso\nFa manana Anao ho heriko",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Tsy ho kivy",
@@ -4246,11 +4244,11 @@
             },
             {
                "lyrics":"Inty aho ry Tompo ô, fa vonona ny hankatoa\nNy baiko izay nankininao taminay\nInty aho iraho aho ambaram-pahatapitry\nNy fofon'aiko miala eto an-tany",
-               "outro":6
+               "bridge":6
             },
             {
                "lyrics":"Inty aho ry Tompo ô, fa vonona ny hankatoa\nNy baiko izay nankininao taminay\nInty aho iraho aho ambaram-pahatapitry\nNy fofon'aiko miala eto an-tany\nNy fofon'aiko miala eto an-tany\nNy fofon'aiko miala eto an-tany Raiko ô",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Ray malala",
@@ -4280,7 +4278,7 @@
             },
             {
                "lyrics":"F’isika kosa hihira, hatrany hatrany\nNy faniriana hatrany an-danitra any",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Tanora",
@@ -4310,7 +4308,7 @@
             },
             {
                "lyrics":"Aiza moa Ianao ry Mpamonjiko\nFa ny fiainako lavitra Anao\nKa n'inoninona atao\nDia aoka mba ho voninahitrao,\nNy angatahiko, ny angatahiko\nAnkasitrahanao ry Ray Tsitoha\nNy angatahiko, ny angatahiko\nAnkasitrahanao ry Ray Tsitoha",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Tompo ô, omeo hery",
@@ -4462,7 +4460,7 @@
             },
             {
                "lyrics":"Ny fiainako rehetra\novaiko tsy misy fetra\nAtolotro ny Tompo\nFa Izy no (Mpanjakan'ny foko)\nNy fiainako rehetra\novaiko tsy misy fetra\nAtolotro ny Tompo\nFa Izy no (Mpanjakan'ny foko)",
-               "outro":2
+               "bridge":2
             }
          ],
          "titre":"Amorony fo madio",
@@ -4904,7 +4902,7 @@
             },
             {
                "lyrics":"Voninahitra, saotra sy haja\nDera sy laza koa, ho Anao tsitoha",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Voninahitra",
@@ -5121,7 +5119,7 @@
             },
             {
                "lyrics":"Oooo mitsikia, de mihira\nFa ny tsiky mitory halemempanahy.",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Mitsikia",
@@ -5187,7 +5185,7 @@
             },
             {
                "lyrics":"Izao, izao no voadiko\nDia izao: tsy hivadika aminao aho",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Voadiko"
@@ -5222,7 +5220,7 @@
             },
             {
                "lyrics":"Ianao no malalany! ianao ilay tiany!\nTsy foiny! tsy ho hariany!\n(Aaah aaa!!)\n\nMalalany aaa...nao!!!",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Malalany Ianao"
@@ -5260,7 +5258,7 @@
             },
             {
                "lyrics":"Raiso ny fivavako",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Zinona",
@@ -5347,7 +5345,7 @@
             },
             {
                "lyrics":"Tsy fanenjika na hifanaratsy koa,\nIfanohana fa iray tanjona.\nKoa ande hifampitrotro am-bavaka.\n\nouuuuouuuh",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Ento am-bavaka",
@@ -5553,7 +5551,7 @@
             },
             {
                "lyrics":"Aza manaiky ho resy foan'izany\namin'ny onjam-piainan'ety\nFa mitraka aza mba kivy izany\nfa Jesosy 'lay tia anao\nNanome toky hanampy anao\nHanampy anao Izy, hamonjy anao\n'Lay teny fikasany\ntsy miov'izany\nOooooouh",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Ho resy",
@@ -5617,7 +5615,7 @@
             },
             {
                "lyrics":"Faly hanome tsiny sy handatsa ahy\n(Jeso Ianao irery ihany)",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Jeso Ianao irery",
@@ -5836,7 +5834,7 @@
             },
             {
                "lyrics":"Satry foana hidera ilay anaranao...",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Anilanao",
@@ -5986,7 +5984,7 @@
             },
             {
                "lyrics":"Tia ahy Jeso tia ah…",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Ianao tia ahy",
@@ -6130,7 +6128,7 @@
             },
             {
                "lyrics":"Eny, fantatrao fa tsy tsara ny miaina eto an-tany izao\nAsanao asanao ny manapa-kevitra hiova hanaraka an'i Jeso\nAn'i Jeso",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Miverena",
@@ -6160,7 +6158,7 @@
             },
             {
                "lyrics":"Ho antsika izay tavela mbola haverinay hatrany\nFa ny Tompo tsy mahela 'reo teny fikasany.",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Teny tsy fanadino",
@@ -6190,7 +6188,7 @@
             },
             {
                "lyrics":"Tiako Ianao...\nTiako...",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Sambatra aho",
@@ -6208,11 +6206,11 @@
             },
             {
                "lyrics":"Ny devoly dia tsy faly aminao\nKa mikendry ny handavo anao\nNefa matokia hatrany\nJeso irery no jerena\nFa Izy no hitarika hitsinjo anao",
-               "pont":2
+               "bridge":2
             },
             {
                "lyrics":"Ireo teny fikasana nomeny\nTehirizo ao am-ponao izany\nRaiso koa ny tanany ka fihino\nIzy no hitarika anao",
-               "pont":1
+               "bridge":1
             },
             {
                "couplet":2,
@@ -6220,7 +6218,7 @@
             },
             {
                "lyrics":"Aza mba mierikerika intsony\nTahaka Petera fahazay\nNdrao dia rendrikin'ny onja\nOnjam-piainana eto an-tany\nFa Jesosy eo aloha no jerena",
-               "pont":4
+               "bridge":4
             }
          ],
          "titre":"Raha mivavaka",
@@ -6246,11 +6244,11 @@
             },
             {
                "lyrics":"Hiara mientana hiara-dia\nHitory ny anarany\nIzay no baiko zay napetrany\nHo tanterahin'ny fiangonana (2×)",
-               "pont":1
+               "bridge":1
             },
             {
                "lyrics":"Hotanterahin'ny fiangonana\nOu ou....\nHotanterahin'ny fiangonana",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Andrin'ny fiangonana",
@@ -6298,7 +6296,7 @@
             },
             {
                "lyrics":"Mitenena Tompo ô\nFa hiaino izahay\nKa soraty ho velona\nAo am-po ny Teninao",
-               "pont":1
+               "bridge":1
             },
             {
                "lyrics":"Ry Fanahy Masina avia\nKa midina eto aminay\nFa mangetaheta ny fonay\nTe handre ilay feonao izahay",
@@ -6306,7 +6304,7 @@
             },
             {
                "lyrics":"Ry Fanahy Masina ô (2×)\nKa soraty ho velona ao am-po ny Teninao",
-               "outro":2
+               "bridge":2
             }
          ],
          "titre":"Fanahy Masina",
@@ -6382,7 +6380,7 @@
             },
             {
                "lyrics":"Ouh...\nMiandry anao aho Jeso\nOuh...\nMiandry anao aho Jeso",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Indray andro any",
@@ -7557,7 +7555,7 @@
             },
             {
                "lyrics":"Manaova ny marina hatrany\nÔ ry velona mbola miaina\nFa ny atao eto an-tany\nTsarovy fa mbola ho tsaraina\nHibaribary amin'izay\nny ota sy 'reo zava-bita\nKoa handeha re hanaiky ny Ray\nRaha tiantsika ny ho tafita\n\nManaova ny marina hatrany\nÔ ry velona mbola miaina\nFa ny atao eto an-tany\nTsarovy fa mbola ho tsaraina\nHibaribary amin'izay\nny ota sy 'reo zava-bita\nKoa handeha re hanaiky ny Ray\nRaha tiantsika ny ho tafita",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Miady Zanaka",
@@ -7587,7 +7585,7 @@
             },
             {
                "lyrics":"Ankehitriny tonga Ianao\nMandondona ao am-poko ao\nMitondra fanantenana\nMampibaliaka ilay hazavana ho ahy\nMisaotra Ray...\nMisaotra Ray...\nMisaotra Anao aho\nHitako izao ny làlana\nHo any Aminao...",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Misaotra Ray",
@@ -7647,7 +7645,7 @@
             },
             {
                "lyrics":"Sambatra izahay\nMialoka eo amiNAO ry Ray...\n\n...Sambatra izahay\nMialoka eo amiNAO ry Ray",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Aronay",
@@ -7699,7 +7697,7 @@
             },
             {
                "lyrics":"Miandry Anao, miandry Anao, miandry Anao zahay\nMiandry Anao, miandry Anao, miandry Anao zahay\nMiandry Anao, miandry Anao, miandry Anao zahay\n\nAza ela Tompo o, fa reraka\nNy zanakao manantena Anao tokoa\nMiandrandra Anao zahay ry Tomponay\nSatria Ianao no Mpanjaka",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Mila Anao",
@@ -7725,7 +7723,7 @@
             },
             {
                "lyrics":"Miandry Anao, miandry Anao, miandry Anao zahay\nMiandry Anao, miandry Anao, miandry Anao zahay\nMiandry Anao, miandry Anao, miandry Anao zahay\n\nAza ela Tompo o, fa reraka\nNy zanakao manantena Anao tokoa\nMiandrandra Anao zahay ry Tomponay\nSatria Ianao no Mpanjaka",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Mila Anao",
@@ -7839,7 +7837,7 @@
             },
             {
                "lyrics":"Fa isika dia hijinja izay natao\nVokatry ny safidy sy ny asa izay natao (2)",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Ilay Mpamafy",
@@ -7877,7 +7875,7 @@
             },
             {
                "lyrics":"Njany misy ranomaso latsaka\nzay asesiky ny onjam-pitiavana\ndia mody ireo nania nandao ny valany\nmiandry ny hiverenanao harovany",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Jeso hianteherana",
@@ -7987,7 +7985,7 @@
             },
             {
                "lyrics":"Falifaly aho Jeso\nTsy lefy ny fitiavanao ahy\nTsy mety ho ritra ilay fitia\nNasehonao teo Kalvary\nFeno tena feno tokoa\nTena safononoka\nFitiavana mandrakizay\nNo nitiavanao ahy\nOooh...\nFitia safononoka\nOoooooh Ooooh...\nSafononoka",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Fitia safononoka",
@@ -8086,7 +8084,7 @@
             },
             {
                "lyrics":"Fiainana mandrakizay Tompo ô\nNo nomaninao ho anay ety\nNy ho kivy sanatria\nNa mbola lavitra ny dia\nNy tananao Ray ô! no mitantana...\nNa fifaliana\nNa fahoriana\nNa fifaliana",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Fiainana mandrakizay",
@@ -8121,7 +8119,7 @@
             },
             {
                "lyrics":"Tsy misy mahasolo Anao, tohano omeo hery fa osa ê!",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Tantano fa osa",
@@ -8334,7 +8332,7 @@
             },
             {
                "lyrics":"Loharanon'ny fifaliana\nho an'ny fianakaviana",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Tokantrano sambatra",
@@ -8417,7 +8415,7 @@
             },
             {
                "lyrics":"Hitoetra ato ampoko ny anaranao",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Jeso fitiavana",
@@ -8447,7 +8445,7 @@
             },
             {
                "lyrics":"Andeha (andeha)\nMba hibebaka isika\nFa ao (fa ao)\nLay tanana efa vita\nAnio tapaho ny hevitrao\nFalÿ falÿ re izao\nE! miandry ilay tany soa vaovao",
-               "outro":3
+               "bridge":3
             }
          ],
          "titre":"Ny fiainantsika",
@@ -8537,7 +8535,7 @@
             },
             {
                "lyrics":"Misy mantsy namana hafa\nmahafantatra tsara ny fahalemenay\nTsy mba vonon-kitsabo ireo lavo\nMahatsiaro hiverina am-balan'ny Ray\nFa vao mainka koa toa mandoaka\n'ty feriko efa maningotra ahy\nTompo ô, Ianao samirery\nNo hany mahafantatra ny am-po tsy miteny",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Ny fiangonana",
@@ -8567,7 +8565,7 @@
             },
             {
                "lyrics":"Izay kely hery ihika hoe :\nMahery aho ao Aminy\nNy mahantra omeny harena\nZava-mahagaga no ataony",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Zava-mahagaga",
@@ -8589,7 +8587,7 @@
             },
             {
                "lyrics":"Ampaherezo isan'andro izahay Jeso\nMba tsy ho kivy fa hijoro satria manana\nIlay Fanahy Masina avy Aminao\nKa ho tafita soa an-danitra ny dia",
-               "pont":1
+               "bridge":1
             },
             {
                "couplet":2,
@@ -8725,7 +8723,7 @@
             },
             {
                "lyrics":"Hira no asandratro ho fiderana Anao (fiderana Anao)\nRaiso ny dera atolotro Anao\nRy Ray...\nRy Ray...\nHira no asandratro ho fiderana Anao (fiderana Anao)\nRaiso ny dera atolotro Anao\nRy Ray (Ka raiso ny hiranay)\nRy Ray (Ny dera ho Anao mandrakizay)\nRy Ray...",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Ny Sekolinao",
@@ -8759,7 +8757,7 @@
             },
             {
                "lyrics":"Ampaherezonao 'zahay ry Ray be indrafo, 'zay toy ny ravina hihintsana, eny koa ho lò\nKa hanam-paharetana sy hazavana hatrany\nRaha mbola tany koa ny tany.\nAmpaherezonao 'zahay ry Ray be indrafo, 'zay toy ny ravina hihintsana, eny koa ho lò\nKa hanam-paharetana sy hazavana hatrany\nRaha mbola tany koa ny tany.",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Feno Fitaka",
@@ -8789,7 +8787,7 @@
             },
             {
                "lyrics":"Mifona izahay\nFenoy hery\nHo vonona handray ny lova izay\nAtolotrao anay\nAnio, mandrakizay\nHenoy ny feon'i Jeso, Jeso\nJeso",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Sao Farany",
@@ -8815,11 +8813,11 @@
             },
             {
                "lyrics":"Matokia, mifalia,\nJeso vahaolana\nMatokia, mifalia\nna dia maizim-bolana",
-               "outro":2
+               "bridge":2
             },
             {
                "lyrics":"Matokia, mifalia,\nJeso vahaolana\nMatokia, mifalia\nna dia maizim-bolana\nna dia maizim-bolana...",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Matokia",
@@ -8879,7 +8877,7 @@
             },
             {
                "lyrics":"Fandalovana ny fiainana\nAza atao mahavariana anao\nManaova ny tsara\nTodiho ny any afara\nFa toerana soa no miandry anao\nFandalovana ny fiainana\nMiserana izao rehetr'izao\nAza sondriana na koa variana\nNy Ray no efa miandry ahy sy ianao\nFandalovana",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Miserana",
@@ -8917,7 +8915,7 @@
             },
             {
                "lyrics":"Teny mampifankatia\nMampifandray izao rehetra izao\nNdeha isika hiara-dia\nHampiara-peo izaho sy Ianao",
-               "outro":4
+               "bridge":4
             }
          ],
          "titre":"Hampiara-peo",
@@ -8947,7 +8945,7 @@
             },
             {
                "lyrics":"Tantano re fa mbola lavitra ny aleha\nTsy misy afa tsy Ianao no rehareha\nMatoky izahay\nF’Ianao no hitarika\nHo mpandresy izahay miaraka aminao",
-               "outro":3
+               "bridge":3
             }
          ],
          "titre":"Jeso Tompo Mpanjaka",
@@ -9276,7 +9274,7 @@
             },
             {
                "lyrics":"Tsy irery, tsy irery aho ety\nTsy irery, tsy irery aho satria\nTsy matahotra, tsy mba vahotra\nFa mahatoky Ilay zoky be fitia",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Tsy irery",
@@ -9371,7 +9369,7 @@
             },
             {
                "lyrics":"Satria raha ho avy tsy ho ela indray Jeso\nFinoana no hijereny ahy sy ianao\nKa tano mafy izay hanananao\nZay nandrenesanao ka mibebaha\nTsy ny anaram-piangonana no hotazoninao\nF'ilay finoana madion'i Jeso Kristy\nF'izany no hamonjeny anao\nTsy ny anaram-piangonana no hotazoninao\nF'ilay finoana madion'i Jeso Kristy\nF'izany no hamonjeny anao",
-               "outro":3
+               "bridge":3
             }
          ],
          "titre":"Tano mafy ny finoana",
@@ -9435,7 +9433,7 @@
             },
             {
                "lyrics":"Tsy misy aharombaka\nNy ampelatananao ry Ray\nSatria Ianao no Andriamanitray\nDe ho hatrizay\nNy fahavalo mpanakana dia\nDe efa resy sy efa nikodia\nFa novidinao ny ranao zahay\nRy Jeso tia\nNy fahavalo mpanakana dia\nDe efa resy sy efa nikodia\nFa novidinao ny ranao zahay\nRy Jeso tia\nAnao zahay",
-               "outro":3
+               "bridge":3
             }
          ],
          "titre":"Tsy misy maharombaka",
@@ -9500,7 +9498,7 @@
             },
             {
                "lyrics":"Fa Ianao no nampody ahy ho ao am-bala indray\nKa nanangana ahy mba ho zanakao\nKa nanangana ahy mba ho zanakao",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Fatratra loatra",
@@ -9620,7 +9618,7 @@
             },
             {
                "lyrics":"Jereo ny adiko etý\nMila Anao Jeso ny fiainako\nVonjeo tsy ho solafaka etý\nAzony mafy re Jeso ny tanako\nAza avela hanalavitra Anao ny foko\nAza avela hanalavitra Anao ny foko\nOoo ooo o! o o o",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Nihemotra aho...Vonjeo !",
@@ -9800,7 +9798,7 @@
             },
             {
                "lyrics":"Inty aho",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Mino aho",
@@ -9838,7 +9836,7 @@
             },
             {
                "lyrics":"Hisaotra Anao ry Tompo\nHihira Anao ny foko\nRy Tompo sy Andriamanitro\nRy Tompo sy Andriamanitro",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Tany lavitra any",
@@ -9872,7 +9870,7 @@
             },
             {
                "lyrics":"An an an an...\nHifankahita ao an-danitra ao\nIzaho sy ireo izay navotanao\nAn an an an...",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Vavaka",
@@ -10006,7 +10004,7 @@
             },
             {
                "lyrics":"Mahereza sy matanjaha\nAza matahotra, aza manahy\nFa Jehovah Tomponao no momba anao\nIzy hiady ho anao",
-               "pont":1
+               "bridge":1
             },
             {
                "final":1,
@@ -10104,7 +10102,7 @@
             },
             {
                "lyrics":"Aiza ianao?\nOh! Aiza ianao?\nNy Rainao mitady anao;\nOh! Tiany loatra ianao.",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Aiza ianao?",
@@ -10126,11 +10124,11 @@
             },
             {
                "lyrics":"Hiaina izany no irio\nMiandry anao ka tadiavo\nHatak’andro re! Ialao!\nTsy hisy ondry very hania\nTsy hisy asa manavia,\nSambatra e! Izaho sy ianao",
-               "pont":1
+               "bridge":1
             },
             {
                "lyrics":"‘Zao hira izao\nHiantsoana anao\nTsarovy fa mandalo ny ety\nFa hisy ny doria!\nHo foana hatreo ny tebitebinao\nTsy hisy intsony ao!",
-               "pont":2
+               "bridge":2
             },
             {
                "final":1,
@@ -10212,7 +10210,7 @@
             },
             {
                "lyrics":"Sakaiza ô andao fa tsy mbola tara,\nRaha tianao ny andronao ho tsara fiafara.\nTsy ho zakanao ny valin’ny efa vita\nRaha sitrakao ireo otanao halevina tsy ho hita.",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Ampy izay ny lasa",
@@ -10246,7 +10244,7 @@
             },
             {
                "lyrics":"Fa mbola hiandry ihany\nNy hiavianao aho\nTohano hery mba tsy ho very\nArovy sy mba tsarovy ireo voady nataoko taminao\nIreo voady izay nataoko taminao",
-               "pont":1
+               "bridge":1
             }
          ],
          "titre":"Ho avy aho",
@@ -10276,7 +10274,7 @@
             },
             {
                "lyrics":"Tazony ho Anao aho, fa mangina irery,\nFa raha anilanao aho, dia ho afaka ahiahy",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Ny fanantenako",
@@ -10384,7 +10382,7 @@
             },
             {
                "lyrics":"Fahasoavanao...",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Fa tiako",
@@ -10510,7 +10508,7 @@
             },
             {
                "lyrics":"Hiroso hatrany izany dia\nNa inona hanjò ety\nTsy misy asaraka aminao\nRaha izao tontolo izao",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Fananako",
@@ -10648,7 +10646,7 @@
             },
             {
                "lyrics":"Andron'ny korana\nAndrom-pifaliana\nHandresena hakiviana\nHanovozan-kery\nHamakin'onja mahery\nAntoky ny any aoriana",
-               "outro":3
+               "bridge":3
             }
          ],
          "titre":"Ny hatanorana",
@@ -10713,7 +10711,7 @@
             },
             {
                "lyrics":"Ouh...\nRy Dada ô tiako loatra ianao.\nOuh...\nRy Dada ô tiako loatra ianao.",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Dada",
@@ -10743,7 +10741,7 @@
             },
             {
                "lyrics":"Misy feo tsy manery\nMora nefa azo antoka\nRaha zatra nandà ianao\nDia tsy re intsony ilay feo!\nO! O!!!!!! O!!!!\nIlay feo!",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Ilay feo",
@@ -10812,7 +10810,7 @@
             },
             {
                "lyrics":"Lazao...\nLazao...\nLazao...\nLazao...\nLazao...",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Lazao ilay tantara",
@@ -10919,7 +10917,7 @@
             },
             {
                "lyrics":"Indro iry (Indro iry)\nJerosalema (Jerosalema)\nTanana masina re\nTsy misy ny (Tsy misy ny)\nMahory ao e (Mahory ao)\n'Ndao isika honina ao\nFa volamena (volamena)\nSy vatosoa (vatosoa)\nNo lalana miditra ao\nKa iza re no tsy mba ho ao\nTsy mba ho ao\nHo ao\n\nTsy tamàna, tsy tamàna e...\nTsy tamàna...",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Tsy tamàna",
@@ -10941,7 +10939,7 @@
             },
             {
                "lyrics":"Ôuuuu..... Ôuuuu.....\nNy avona am-po.....",
-               "pont":1
+               "bridge":1
             },
             {
                "couplet":3,
@@ -11052,7 +11050,7 @@
             },
             {
                "lyrics":"Ilay Gasikara mamiko\nHo sambatra izaho sy ianao",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Gasikarako",
@@ -11086,7 +11084,7 @@
             },
             {
                "lyrics":"(Unisson)\nFisaorana no a ...\n(Trio voix 1,2,3)\n...tolotray",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Anatra",
@@ -11146,7 +11144,7 @@
             },
             {
                "lyrics":"Fa tojo Anao...\nFa mbola hafa...",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Avelao any",
@@ -11194,7 +11192,7 @@
             },
             {
                "lyrics":"Tanteraka ny fanirian'ny foko\nHo tapitra ny adiko ety\nHo safononoka ny hafaliako\nAhita maso ny Tompo tia\nFiadanana tsy misy fiafarany\nFahasambarana maharitra\nIzay no handradraiko\nSatria hantenaiko\nHonina ao mandrakizay\n\nIzay no handradraiko\nSatria hantenaiko\nHonina ao mandrakizay\n\nMandrakizay\nMandrakizay\nMandrakizay",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Nampanantena",
@@ -11236,7 +11234,7 @@
             },
             {
                "lyrics":"Ray fitiavana Ianao\nNy fiainako tontolo\nEo am-pelatananao (avec choeur)\nO! O! O! O! O! (avec choeur)\nEo am-pelatananao (duo miadana)",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Eo am-pelatananao",
@@ -11396,11 +11394,11 @@
             },
             {
                "lyrics":"Fa mbola tandindona ny ety\nManaitra nefa mora lefy\nJesosy anie mampanantena\nFa hanavao ilay Edena",
-               "outro":1
+               "bridge":1
             },
             {
                "lyrics":"Fa mbola tandindona ny ety\nManaitra nefa mora lefy\nJesosy anie tsy maintsy ho avy\nIriany ianao handray Azy",
-               "outro":2
+               "bridge":2
             }
          ],
          "titre":"Tsapako eto",
@@ -11744,7 +11742,7 @@
             },
             {
                "lyrics":"Amorony fo madio aho\nAmorony fo vaovao",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Amorony fo madio",
@@ -11966,7 +11964,7 @@
             },
             {
                "lyrics":"Tsy misy hery ianteherana\nRaha misaraka Aminao\nEo anilanao no fanaperana\nIlay sakaizako tsy mba mandao\n\nEo anilanao no fanaperana...\nIlay sakaizako tsy mba mandao",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Jeso tokiko",
@@ -12038,7 +12036,7 @@
             },
             {
                "lyrics":"Ry Jesô fahamarinako\nIzaho mpanota mila vonjy re",
-               "outro":1
+               "bridge":1
             }
          ],
          "titre":"Mila Anao",
