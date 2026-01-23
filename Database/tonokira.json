@@ -8452,6 +8452,58 @@
          "tonalite":""
       },
       {
+  "artiste": "Groupe Billy",
+  "auteur": "",
+  "compositeur": "",
+  "id": "GB_2",
+  "titre": "Baiboly",
+  "tonalite": "",
+  "paroles": [
+    {
+      "couplet": 1,
+      "lyrics": "Nanoro lalana Izy\nNy amin’izay tokony ho aleha\nNy baiboly tokana\nNo lalana ahitana ny fahamarinana"
+    },
+    {
+      "couplet": 2,
+      "lyrics": "Nanoro lalana Izy\nNy amin’izay tokony ho aleha\nNy baiboly tokana\nNo lalana ahitana ny fahamarinana"
+    },
+    {
+      "refrain": 1,
+      "lyrics": "N’izan’iza\nTsy handray anao\nTsy hampihemotra\nNy tanam-pitiavanao\nRakotr’haizina ny tany iainana\nFeno ota\nIzao tontolo izao"
+    },
+    {
+      "bridge": 1,
+      "lyrics": "Ity misy antso tonga\nTonga aminao\nKa raha iniana tsy ho henoina"
+    },
+    {
+      "refrain": 2,
+      "lyrics": "N’izan’iza\nTsy handray anao\nTsy hampihemotra\nNy tanam-pitiavanao\nRakotr’haizina ny tany iainana\nFeno ota\nIzao tontolo izao\n\nN’izan’iza\nTsy handray anao\nTsy hampihemotra\nNy tanam-pitiavanao\nRakotr’haizina ny tany iainana\nFeno ota\nIzao tontolo izao"
+    }
+  ]
+},
+{
+  "artiste": "Groupe Billy",
+  "auteur": "",
+  "compositeur": "",
+  "id": "GB_3",
+  "titre": "Tiako sy tia ahy",
+  "tonalite": "",
+  "paroles": [
+    {
+      "couplet": 1,
+      "lyrics": "Na mafy aza ny onjan’ny fiainana\nTsy manary toky aho fa manantena\nFa ilay Ray ao an-danitra\nMbola tia sy mitahy\nTsy mba mandao ahy akory"
+    },
+    {
+      "refrain": 1,
+      "lyrics": "Fa ny fitiavany no maharitra\nMampahery ahy hatrany\nTsy very fanantenana aho\nFa Jeso no Mpitondra ahy\nNa ho avy aza ny ora maizina\nTsy ho irery aho fa miaraka amiko Izy\nTsy mba handao, fa ho ao foana\nHo mandrakizay"
+    },
+    {
+      "couplet": 2,
+      "lyrics": "Na ho reraka sy ho ketraka aza\nKa tsy hahita izay handeha intsony\nHo eo Izy hanarina\nSy hampitsiky indray\nFa Izy no fitiavana"
+    }
+  ]
+},
+      {
          "artiste":"Dominique",
          "auteur":"Dominique Niaina Rasoanaivo",
          "compositeur":"Dominique Niaina Rasoanaivo",
